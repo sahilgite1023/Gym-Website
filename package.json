@@ -1,0 +1,14 @@
+{
+  "name": "gym-fullstack-project",
+  "version": "1.0.0",
+  "description": "Fullstack gym website with admin panel",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "init-db": "cd server && npm run init-db"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
