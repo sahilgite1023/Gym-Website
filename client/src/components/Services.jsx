@@ -44,7 +44,7 @@ const Services = ({ content }) => {
               <p className="text-gym-light/80 leading-relaxed mb-6 line-clamp-3">{service.description}</p>
               
               <a 
-                href={`https://wa.me/8087575415?text=Hi! I'd like to enquire about *${service.name}* (${service.price}). ${service.description}`}
+                href={`https://wa.me/918087575415?text=Hi! I'd like to enquire about *${service.name}* (${service.price}). ${service.description}`}
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center w-full py-3 px-6 bg-gym-accent/10 text-gym-accent border-2 border-gym-accent rounded-xl font-bold hover:bg-gym-accent hover:text-white transition-all group-hover:scale-105"

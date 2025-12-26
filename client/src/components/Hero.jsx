@@ -35,7 +35,7 @@ const Hero = ({ content }) => {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto slide-in-left">
             <a 
-              href="https://wa.me/8087575415?text=Hi! I'm interested in joining *Health N More Fitness*. Please share membership details." 
+              href="https://wa.me/918087575415?text=Hi! I'm interested in joining *Health N More Fitness*. Please share membership details." 
               target="_blank" 
               rel="noopener noreferrer"
               className="btn btn-primary text-base sm:text-lg px-8 py-4 shadow-xl shadow-gym-accent/30 hover:shadow-2xl hover:shadow-gym-accent/40 transition-all group"

@@ -74,7 +74,7 @@ const Contact = ({ content }) => {
                 <p className="mb-6 text-white/90">Contact us now to start your fitness journey</p>
                 <div className="grid sm:grid-cols-2 gap-4">
                   <a 
-                    href="https://wa.me/8087575415?text=Hi! I would like to get in touch with Health N More Fitness. Please assist me." 
+                    href="https://wa.me/918087575415?text=Hi! I would like to get in touch with Health N More Fitness. Please assist me." 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="bg-white text-gym-dark py-3.5 px-6 rounded-xl font-bold flex items-center justify-center gap-2 hover:bg-gray-100 transition-all hover:scale-105 shadow-lg"

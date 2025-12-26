@@ -46,7 +46,7 @@ const Packages = ({ content }) => {
                 </ul>
                 
                 <a 
-                  href={`https://wa.me/8087575415?text=Hi! I'm interested in the *${pkg.name}* package (${pkg.price}). Please provide more details.`}
+                  href={`https://wa.me/918087575415?text=Hi! I'm interested in the *${pkg.name}* package (${pkg.price}). Please provide more details.`}
                   target="_blank" 
                   rel="noopener noreferrer"
                   className={`block w-full py-3.5 px-6 rounded-xl font-bold text-center transition-all ${
