@@ -74,12 +74,12 @@ const Header = () => {
                 {link.name}
               </a>
             ))}
-            <Link 
+            {/* <Link 
               to="/admin/login" 
               className="ml-4 px-4 py-2 bg-gym-accent/10 text-gym-accent border border-gym-accent/30 rounded-lg font-medium hover:bg-gym-accent hover:text-white transition-all"
             >
               Admin
-            </Link>
+            </Link> */}
           </nav>
           
           {/* Mobile menu button */}
@@ -117,13 +117,13 @@ const Header = () => {
                 {link.name}
               </a>
             ))}
-            <Link 
+            {/* <Link 
               to="/admin/login" 
               onClick={() => setIsMenuOpen(false)}
               className="px-4 py-3 bg-gym-accent/10 text-gym-accent border border-gym-accent/30 rounded-lg font-medium hover:bg-gym-accent hover:text-white transition-all text-center"
             >
               Admin Login
-            </Link>
+            </Link> */}
           </nav>
         </div>
       </div>
