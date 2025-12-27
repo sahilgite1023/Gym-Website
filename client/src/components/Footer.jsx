@@ -78,7 +78,7 @@ const Footer = () => {
             </p>
             <div className="flex items-center gap-4">
               <a 
-                href="https://www.linkedin.com/in/sahilgite2003?originalSubdomain=in" 
+                href="https://www.linkedin.com/in/sahilgite2003" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gym-light/60 hover:text-gym-accent transition-colors"
